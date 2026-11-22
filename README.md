@@ -17,7 +17,7 @@ brew install ollama
 ollama pull llama3.2
 
 # 3. Install dependencies
-cd recipe-agent
+cd Recipe_agent
 npm install
 ```
 
